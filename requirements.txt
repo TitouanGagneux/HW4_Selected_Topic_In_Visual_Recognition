@@ -1,0 +1,10 @@
+Python >= 3.9
+PyTorch
+torchvision
+torch
+scikit-learn
+NumPy
+OpenCV
+matplotlib
+tqdm
+Pillow
