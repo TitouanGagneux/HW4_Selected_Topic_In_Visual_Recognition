@@ -42,6 +42,8 @@ The goal is to achieve the highest possible PSNR score on the competition leader
 * Python >= 3.9
 * PyTorch
 * torchvision
+* torch
+* scikit-learn
 * NumPy
 * OpenCV
 * matplotlib
